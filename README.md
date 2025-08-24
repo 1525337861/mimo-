@@ -1,4 +1,4 @@
-# 我的半监督学习图像分类项目列表
+# MIMO毫米波雷达半监督分类
 
 ## 1. [JanMarcelKezmann/Semi-Supervised-Learning-Image-Classification](https://github.com/JanMarcelKezmann/Semi-Supervised-Learning-Image-Classification)
 - **描述**：该项目实现了多种半监督学习算法（如 FixMatch、Mean Teacher、Pseudo-Label 等），专注于图像分类任务，使用 TensorFlow 2.x 和 Python 3.x 开发，结构简洁，易于理解和扩展。
